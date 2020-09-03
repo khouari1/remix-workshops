@@ -1,6 +1,4 @@
-# Proxy Contract AKS the Dispatcher
-
-## Why?
+## Proxy Contract as the Dispatcher
 
 This is a great pattern which is used mainly in **library development**. 
 
@@ -23,4 +21,4 @@ Storing contract code at creation time can cost up to:
  - 200 * max_byte_code_length gas
  - 200 * 24576 = 49152004915200 * 10 gwei = 49152000 gwei = 0.049152 ether = 9 EUR
  
- see https://github.com/ethereum/EIPs/blob/master/EIPS/eip-170.md for more info on max_byte_code_length.
+ See <a href="https://github.com/ethereum/EIPs/blob/master/EIPS/eip-170.md" target="_blank">here</a>for more info on max_byte_code_length.
