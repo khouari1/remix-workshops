@@ -1,7 +1,7 @@
 ## Load a file from the Files Explorer
 **Proceedure**
 
-1. In the icon panel, click ![file explorer icon](https://github.com/ethereum/remix-workshops/blob/master/Basics/2_Load_and_compile/images/files1.png?raw=true "file explorer icon") - the File Explorer's icon.
+1. In the icon panel, click ![file explorer icon](./images/files1.png?raw=true "file explorer icon") - the File Explorer's icon.
 
 5. Find **2_Owner.sol** which is in the browser/contracts folder.  Click it and the file will appear in the main panel's editor in a tab.
 
